@@ -1,0 +1,8 @@
+db_server:
+  host: 127.0.0.1
+  port: 3306
+servers:
+- web_server: localhost
+web_server:
+  host: 127.0.0.1
+  port: 80
